@@ -1,1 +1,1 @@
-**This file is mandatory in all Holberton School projects**
+0x03. Git project
